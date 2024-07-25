@@ -6,5 +6,3 @@
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=naderjavid)
-
-![Metrics](https://github.com/naderjavid/naderjavid/blob/main/github-metrics.svg)
